@@ -5,4 +5,5 @@ This project analyzes the performance of various marketing campaigns across mult
 - SQL for analysis
 - PowerBI for visualization
 ## Dashboard:
-![Alt Text](chart.png)
+![Alt Text](https://github.com/Arwa988/Marketing_Campaign_Analysis_SQL_PowerBI/blob/main/images/Marketing%20dashboard.png)
+## Insights :
