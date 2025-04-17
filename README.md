@@ -5,3 +5,4 @@ This project analyzes the performance of various marketing campaigns across mult
 - SQL for analysis
 - PowerBI for visualization
 ## Dashboard:
+![Alt Text](chart.png)
